@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6981167
-  lightness: 0.3258799
+  saturation: 0.7957394
   brandStrength: 0.0757727
+  lightness: 0.2969925
   brandColors:
     - '#000000'
     - '#008B9F'
     - '#00D3DA'
     - '#01373F'
     - '#005F6F'
-  rhythmicContrast: 0.09365366
+  rhythmicContrast: 0.9122807
 typography_spectrum: 0.6566416
+layout_spectrum: 0.1679198
 name: Uncle Travelling Murren
