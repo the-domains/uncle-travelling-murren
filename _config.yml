@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6981167
+  lightness: 0.3258799
+  brandStrength: 0.0757727
+  brandColors:
+    - '#000000'
+    - '#008B9F'
+    - '#00D3DA'
+    - '#01373F'
+    - '#005F6F'
+  rhythmicContrast: 0.09365366
+typography_spectrum: 0.6566416
+name: Uncle Travelling Murren
